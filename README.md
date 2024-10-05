@@ -10,9 +10,9 @@ This project is part of the Frontend Web Development course from the [Developer 
 
 Here is an overview of the most important functions of the project:
 
-- **Available Languages:** English,
-- **Functionality:** Fully playable with winner and draw detection,
-- **Responsive Design:** Optimized for various screen sizes,
+- **Available Languages:** English.
+- **Functionality:** Fully playable with winner and draw detection.
+- **Responsive Design:** Optimized for various screen sizes.
 - **Theme Options:** Supports dark and light mode for enhanced user experience.
 
 <br>
