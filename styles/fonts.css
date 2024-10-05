@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets/fonts/Inter-VariableFont.ttf');
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.75rem;
+}
+
+h3 {
+    font-size: 1.25rem;
+}
+
+p {
+    font-weight: 300;
+    line-height: 1.6;
+    color: color-mix(in lab, var(--base-content) 100%, transparent 30%);
+}
+
+a {
+    text-decoration: none;
+    color: var(--base-content);
+}
+
+figcaption {
+    font-weight: 400;
+    font-size: 0.875rem;
+    color: color-mix(in lab, var(--base-content) 70%, transparent 30%);
+}

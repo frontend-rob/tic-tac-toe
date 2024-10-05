@@ -1,0 +1,30 @@
+.hidden {
+    display: none;
+}
+
+.show {
+    display: flex;
+}
+
+.no-scroll {
+    overflow: hidden;
+}
+
+
+body::-webkit-scrollbar {
+    width: 0.5rem;
+    height: 0.5rem;
+}
+
+body::-webkit-scrollbar-track {
+    background: var(--track-color);
+}
+
+body::-webkit-scrollbar-thumb {
+    background: var(--thumb-color);
+    border-radius: 0.25rem;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+    background: var(--thumb-hover-color);
+}
