@@ -37,7 +37,7 @@ Once the code is cloned/downloaded, navigate to the project directory on your co
 
 ## Contributing
 
-While contributions are not expected for this personal learning project, I welcome any feedback, suggestions, or ideas for improvement, so feel free to reach out!
+Though contributions aren’t expected for this personal learning project, I’m always open to feedback, suggestions, or creative ideas. If you have any thoughts or would like to share something, feel free to reach out!
 
 <br>
 
