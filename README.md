@@ -17,6 +17,13 @@ Here is an overview of the most important functions of the project:
 
 <br>
 
+## Preview
+
+![mockup-tictactoe-mobile](https://github.com/user-attachments/assets/2d8f53fd-8a29-4160-832a-b62b3aa4ed7c)
+
+![mockup-tictactoe-mbair](https://github.com/user-attachments/assets/df8e3874-4ad2-411c-bf01-d097278ef937)
+
+
 ## Setup Instructions
 
 To run this project locally, follow these steps:
