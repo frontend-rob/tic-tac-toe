@@ -7,6 +7,7 @@
 
 :root {
     --bg-base-100: #ffffff;
+    --bg-base-100: #fafafa;
     --bg-base-200: #efefef;
     --bg-neutral: #e0e0e0;
     --border-color: #e0e0e0;
@@ -26,6 +27,7 @@
 
 html[data-theme="light"] {
     --bg-base-100: #ffffff;
+    --bg-base-100: #fafafa;
     --bg-base-200: #efefef;
     --bg-neutral: #e0e0e0;
     --border-color: #e0e0e0;
