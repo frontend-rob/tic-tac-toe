@@ -24,8 +24,6 @@ function applyTheme(theme) {
 
 function updateMetaThemeColor(theme) {
     const themeColorMetaTag = document.querySelector('meta[name="theme-color"]');
-    const lightThemeColor = 'var(--bg-base-100)';
-    const darkThemeColor = 'var(--bg-base-100)';
     const lightThemeColor = '#fafafa';
     const darkThemeColor = '#212121';
 
