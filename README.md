@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-This project is part of the Frontend Web Development course from the [Developer Akademie.](https://developerakademie.com/) 
+This project has been developed as part of the frontend development bootcamp at the [Developer Akademie.](https://developerakademie.com/)
 
 <mark>NOTE:</mark> This is a learning project focusing on prompt engineering with ChatGPT. The primary goal is to develop specific skills and apply them effectively throughout the app, emphasizing core functionalities.
 
