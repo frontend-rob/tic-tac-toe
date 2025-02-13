@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 Download the source code by clicking the <kbd>Code</kbd> button or clone the repository using Git:
 
 ```
-git clone https://github.com/robsc0de/tic-tac-toe.git
+git clone https://github.com/frontend-rob/tic-tac-toe.git
 ```
 
 2. Start the Application
